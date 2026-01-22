@@ -1,3 +1,8 @@
-# ML-projects
+# Author-Attribution
 
-This repository's purpose is representing my achievements and progress through ML and NLP Projects. It will always be underconstruction. 
+This repository's purpose is examine of different approaches to author attribution with different methods. First aprroach is the classic one, TF-IDF. Then Burrow's Delta and finally BERT.
+As expected, accuracy rate is BERT>Burrow'delta>TF-IDF
+
+Code is basic (and mostly genai) but you can look up to mathematics behind the models with attached the presentation. It is not advanced mathematics, despite my expectations and can be understood with basic statistic background. 
+
+Hope it'll be helpfull.
